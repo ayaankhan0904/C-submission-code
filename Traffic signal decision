@@ -1,0 +1,20 @@
+#include <iostream>
+Using namespace std;
+Int main() {
+    String signal;
+    Cout << “Enter signal color (red/yellow/green): “;
+    Cin >> signal;
+    If (signal == “red”) {
+        Cout << “Stop”;
+    }
+    Else if (signal == “yellow”) {
+        Cout << “Wait”;
+    }
+    Else if (signal == “green”) {
+        Cout << “Go”;
+    }
+    Else {
+        Cout << “Invalid signal”;
+    }
+    Return 0;
+}
