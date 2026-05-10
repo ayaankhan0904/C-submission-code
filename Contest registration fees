@@ -1,0 +1,12 @@
+#include <iostream>
+Using namespace std;
+Int main() {
+    Int X, Y;
+    Cin >> X >> Y;
+    If (Y <= X) {
+        Cout << 0;
+    } else {
+        Cout << 100;
+    }
+    Return 0;
+}
