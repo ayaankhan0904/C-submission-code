@@ -1,0 +1,12 @@
+#include <iostream>
+Using namespace std;
+Int main() {
+    Int A, B, C;
+    Cin >> A >> B >> C;
+    If (A * B == C * C) {
+        Cout << “Yes”;
+    } else {
+        Cout << “No”;
+    }
+    Return 0;
+}
