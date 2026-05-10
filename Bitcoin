@@ -1,0 +1,12 @@
+#include <iostream>
+Using namespace std;
+Int main() {
+    Int R;
+    Cin >> R;
+    If (R <= 4) {
+        Cout << “YES”;
+    } else {
+        Cout << “NO”;
+    }
+    Return 0;
+}
